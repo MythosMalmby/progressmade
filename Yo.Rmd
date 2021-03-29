@@ -33,4 +33,30 @@ Progress 3-28-21: Riley Smith and me have consulted with eachother and know what
 # This is Carson Palmer, I approve this message^^^^
 
 
-# Sophie and Noah
+# Sophie 
+Progress 3-28-21: Noah and I have consulted with one another and several outside sources such as coding websites called Data to Fish, cran.rstudio, and Home and Learn - Python. We will be modifying our section of code to allow students to select a file and save is as a .csv file. An error message will be written to ensure that a file is not saved to a filename that does not exist, or some other saving issue occurs. So far, various packages have been explored for use in solving some of our problems. I compiled the following code from several sources to help address the error message part of our project:
+
+filename = 'filename'
+
+def savefileas():
+  save_text_as = filedialog.asksaveasfile(mode='w', defaultextension='.csv')
+
+  if save_text_as:
+    text_to_save = textArea.get('1.0', 'end-1c')
+    save_text_as.write(text_to_save)
+    save_text_as.close()
+  else:
+      messagebox.showinfo("Error", "Cancelled")
+
+def savefile()
+  global file.rename
+  
+  if filename:
+    text_area_text = textArea.get('1.0', 'end-1c')
+    save_text = open(filename, 'w')
+    save_text.write(text_area_text)
+    save_text.close()
+  else:
+      messagebox.showinfo("Error", "No file open")
+
+There are still several issues that need to be addressed but this is what we have as a starting place.
