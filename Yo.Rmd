@@ -14,7 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 # Hello World!
 
 # Jared's update
-Progress has been made on all 3 subprojects within this progam. I have been able 
+Progress has been made on all 3 subprojects within this progam. I have been able to communicate with all groups and set up a integration system on github and Rstudio so that 
+any group member can communicate, pull, and push data without causing any integration issues into the master branch. I have been able to get with each group and help direct and push each group towards a goal/ assingment in bite size pieces that they are able to handle and work towards. Riley and Carson are working on a UI change and have been able to consult some resources and gotten some goode code changes set up but do not know how to fully integrate it at this point. Sophie and Noah know where they are looking at and making adjustments to the code in order to fix the CSV save issue. Catherine and David have gotten some great progress and been able to set up slope equations and prompts onto the program. They do not look the best so once they are able to fix it up a bit in the GUI they will be complete. I have gotten with every member and made sure they know how to communicate with R and this Github repository and make the changes they need to. 
 
 
 
