@@ -11,21 +11,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-
-# test run
-
-# Jared's update
-
 # Hello World!
 
-# David is da man
+# Jared's update
+Progress has been made on all 3 subprojects within this progam. I have been able 
 
 
-# This is Noah's code
 
 
 
-# Catherines update
+
+# David
+
+
+# Catherine
 
 
 # Riley & Carson Project
