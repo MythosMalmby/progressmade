@@ -59,3 +59,4 @@ def savefile()
       messagebox.showinfo("Error", "No file open")
 
 There are still several issues that need to be addressed but this is what we have as a starting place.
+Progress 03/28/21: David and I added the equation for the line of best fits for each of the Michaelis Menton curves in the graph. This equation can be used to calculate the slope using the inputed data points from the substrate.csv file. -Catherine Oakley
