@@ -68,3 +68,5 @@ Progress 3/28/21: Catherine and I have managed to add code within the program to
 text(4e-06,6.5e-07,label="V0=(3.404e-07[Concentration])/(1.323e-07+[Concentration])")
 text(4e-06,2.5e-07,label="V0=(8.801e-07[Concentration])/(1.902e-06+[Concentration])")
 
+# Catherine Oakley
+Progress 03/28/21: David and I added the equation for the line of best fits for each of the Michaelis Menton curves in the graph. This equation can be used to calculate the slope using the inputed data points from the substrate.csv file. Catherine Oakley
